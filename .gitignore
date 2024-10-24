@@ -130,3 +130,9 @@ dist
 .pnp.*
 
 */package-lock.json
+
+# mac
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
